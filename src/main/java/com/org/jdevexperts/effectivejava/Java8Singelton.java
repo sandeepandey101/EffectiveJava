@@ -5,6 +5,4 @@ package com.org.jdevexperts.effectivejava;
  */
 public enum Java8Singelton {
   INSTANCE;
-
-
 }
